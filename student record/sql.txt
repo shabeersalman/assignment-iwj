@@ -1,0 +1,2 @@
+CREATE TABLE student  
+                   (rollno INTEGER,name VARCHAR(20),age INTEGER,marks INTEGER,PRIMARY KEY ( rollno ));
